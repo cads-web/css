@@ -1,0 +1,48 @@
+
+
+.paragrafo{
+
+}
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Dongle&display=swap" rel="stylesheet">
+
+#yellow{
+color: rgb(183, 255, 16);
+}
+#blue {
+color: rgb(89, 0, 255);
+
+font-family: "Dongle", sans-serif;
+  
+}
+
+#green{
+color: rgb(0, 139, 23);
+background-color: rgb(186, 241, 55);
+font-size: 15px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-style: italic;
+word-spacing: 10px;
+text-justify: center;
+}
+
+p {
+color: darkorange;
+}
+
+#yellow{
+    background-color: deepskyblue;
+    font-size: 15px;
+    font-family: "Black Han Sans", sans-serif;
+    font-style: italic;
+    word-spacing: 10px;
+    text-align: center;
+}
+div{
+    background-color: #6e7e6e;
+    width: 10vw;
+    height: 19vmax;
+    border-radius: 5%;
+}
